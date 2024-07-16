@@ -1,0 +1,11 @@
+name: "Solarflow Control"
+description: "Solarflow Control"
+version: "0.0.1"
+slug: "solarflow_control"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
